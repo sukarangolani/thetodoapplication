@@ -1,0 +1,21 @@
+[    
+    {
+    "userName": "sukarangolani",
+    "password": "sg@123",
+    "incompleteTasks":[{
+        "name":"Complete your homework",
+        "date":"2020-03-06"
+    },
+    {
+        "name":"Eating Food",
+        "date":"2020-02-012"
+    }],
+
+    "completedTasks":[{
+        "name":"Going for a walk",
+        "date":"2020-01-31"
+    }]
+    
+    }
+
+]
